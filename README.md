@@ -16,54 +16,54 @@
 ### web端源码相关图片
 1.选择模板
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/1.png" >
+<img src="/1.png" >
 <br>
 2.模板内容修改
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/2.png" >
+<img src="/2.png" >
 <br>
 3.模板渲染进度
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/3.png" >
+<img src="/3.png" >
 <br>
 4.模板渲染结果
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/4.png" >
+<img src="/4.png" >
 <br>
 5.模板添加删除修改
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/5.png" >
+<img src="/5.png" >
 <br>
 
 ### 手机端源码相关图片（支持ios 安卓 小程序（抖音 微信 百度 快手））
 1.手机端截图1
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/6.jpg" >
+<img src="/6.jpg" >
 <br>
 
 2.手机端截图2
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/7.jpg" >
+<img src="/7.jpg" >
 <br>
 3.手机端截图3
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/8.jpg" >
+<img src="/8.jpg" >
 <br>
 4.手机端截图4
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/9.jpg" >
+<img src="/9.jpg" >
 <br>
 5.手机端截图5
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/10.jpg" >
+<img src="/10.jpg" >
 <br>
 6.手机端截图6
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/11.jpg" >
+<img src="/11.jpg" >
 <br>
 7.手机端截图7
 <br>
-<img src="https://sockapi.oss-cn-chengdu.aliyuncs.com/gitee/effect/12.jpg" >
+<img src="/12.jpg" >
 <br>
 
 
